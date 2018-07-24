@@ -1,5 +1,7 @@
 # FileVault Status for TextBar
 
+_NOTE: As of this writing, 2018-07-23, the import process seems to try to put the scripts into some folder in ~/Library/ for reasons I don't understand. I'm investigating._
+
 Summary: A TextBar recipe to show FileVault’s encryption progress (for use when first enabling FileVault on your Mac).
 
 ## Why would I want this?
